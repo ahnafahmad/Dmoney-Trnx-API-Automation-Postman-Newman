@@ -1,10 +1,10 @@
-# dmoney-trnx-api-automation-newman
+# Dmoney-Trnx-Api-Automation-Newman
 
-## Technology and tool used
+## Technology and Tools used in this Project
  - Postman
  - Newman
  
- ## Scenario
+ ## Project Scenarios
  - The system admin can login to the sytem
  - Customer can Create Id
  - Customer can get Id
