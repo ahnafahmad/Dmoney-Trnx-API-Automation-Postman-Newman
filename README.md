@@ -50,4 +50,5 @@ node .\report.js
 - Link: shorturl.at/jpTYZ
 
 ## Newman Automation Report Image
+
   ![Newman Automation report](https://user-images.githubusercontent.com/58990500/192164259-a75c10f2-8bbe-4c4f-bf83-41bca42aee16.PNG)
