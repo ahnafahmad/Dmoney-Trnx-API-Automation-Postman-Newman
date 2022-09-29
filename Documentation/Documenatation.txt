@@ -1,0 +1,3 @@
+Documentation Link of dmoney-trnx-api-automation-newman:
+
+https://documenter.getpostman.com/view/23449121/2s83mhnNdD
