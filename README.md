@@ -47,7 +47,7 @@ node .\report.js
   - Node.js must be installed
   
 ## API documentation
-- Link: shorturl.at/jpTYZ
+- Link: https://documenter.getpostman.com/view/23449121/2s83mhnNdD
 
 ## Newman Automation Report Image
 
