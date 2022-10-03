@@ -14,7 +14,7 @@
  - Agent can Deposit to Customer
  - Customer can Check Balance
  - Customer can withdraw money
- - Customer (Sender) can send money to another Customer ( Receiver)
+ - Customer (Sender) can send money to another Customer (Receiver)
  
  ## How to run this project:
  - Clone this project
@@ -27,7 +27,7 @@
 ```
  
  ## How to Generate Report: 
- Automated dmoney API using Postman where test cases are added for Login,Creating users,Searching users and performed testing for CRUD operations. 
+ Automated dmoney API using Postman where test cases are added for Login,Creating Customers/Agents Id, Geting Customer Id, Deposit money to Customer/Agent, Checking Balance for Customer/Agent Withdraw money, Sending money to Customer. 
  Steps to run this project:
  - Give the following commands by opening terminal in the project folder to create newman Report:
 ```
