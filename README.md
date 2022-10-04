@@ -17,7 +17,7 @@
  - Customer (Sender) can send money to another Customer (Receiver)
  
  ## How to run this project:
- - Clone this project
+ - Clone this project [dmoney-trnx-api-automation-newman](https://github.com/ahnafahmad/dmoney-trnx-api-automation-newman.git)
  - hit the following command:
   ```
  npm i
