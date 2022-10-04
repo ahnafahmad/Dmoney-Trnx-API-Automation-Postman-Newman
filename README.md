@@ -47,7 +47,7 @@ node .\report.js
   - Node.js must be installed
   
 ## API documentation
-[dmoney-trnx-api-automation-newman](https://documenter.getpostman.com/view/23449121/2s83mhnNdD)
+[Dmoney-trnx-api-automation-newman](https://documenter.getpostman.com/view/23449121/2s83zcTmrG)
 
 
 ## Newman Automation Report Image
