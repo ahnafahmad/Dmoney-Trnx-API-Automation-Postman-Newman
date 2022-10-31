@@ -28,7 +28,7 @@
  
  ## How to Generate Report: 
  Automated dmoney API using Postman where test cases are added for Login,Creating Customers/Agents Id, Geting Customer Id, Deposit money to Customer/Agent, Checking Balance for Customer/Agent Withdraw money, Sending money to Customer. 
- Steps to run this project:
+ Steps to generate the report:
  - Give the following commands by opening terminal in the project folder to create newman Report:
 ```
  npm i newman
