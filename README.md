@@ -1,4 +1,4 @@
-# Dmoney-Trnx-Api-Automation-Newman
+# Dmoney Trnx Api Automation Postman-Newman
 
 ## Technology and Tools used in this Project
  - Postman
